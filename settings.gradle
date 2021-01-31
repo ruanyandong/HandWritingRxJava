@@ -1,0 +1,4 @@
+include ':RxJava'
+include ':RxKotlin'
+include ':app'
+rootProject.name = "HandWritingRxJava"
